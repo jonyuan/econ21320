@@ -1,0 +1,637 @@
+<p>State Weekly Claims for Unemplyment Insurance Data Not Seasonally Adjusted</p>
+<br />
+<table width="738" border="0" summary="r539cy Report Table">
+	<tr><td id="noinfo" colspan="10" axis="No Information available"></td></tr>
+	<tr bgcolor='#d9d9d9'>
+		<th id="State" width="180" align=left>State</th>
+		<th id="Filed_week_ended" width="105" align="right">Filed week ended</th>
+		<th id="initial_claims" width="50" align="right">Initial Claims</th>
+		<th id="reflecting_week_ended" width="103" align="right">Reflecting Week Ended</th>
+		<th id="continued_claims" width="80" align="right">Continued Claims</th>
+		<th id="cov_employment" width="100" align="right">Covered Employment</th>
+		<th id="Insured_unemployment_rate" width="120" align="right">Insured Unemployment Rate</th>
+	</tr>
+	
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="01/05/2019" align=right>01/05/2019</th>
+<td headers="Illinois 01/05/2019 initial_claims" align=right>11,838</td>
+<td headers="Illinois 01/05/2019 reflecting_week_ended" align=right>12/29/2018</td>
+<td headers="Illinois 01/05/2019 continued_claims" align=right>117,562</td>
+<td headers="Illinois 01/05/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 01/05/2019 insured_unemployment" align=right>2.00</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="01/12/2019" align=right>01/12/2019</th>
+<td headers="Illinois 01/12/2019 initial_claims" align=right>12,561</td>
+<td headers="Illinois 01/12/2019 reflecting_week_ended" align=right>01/05/2019</td>
+<td headers="Illinois 01/12/2019 continued_claims" align=right>136,601</td>
+<td headers="Illinois 01/12/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 01/12/2019 insured_unemployment" align=right>2.32</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="01/19/2019" align=right>01/19/2019</th>
+<td headers="Illinois 01/19/2019 initial_claims" align=right>11,347</td>
+<td headers="Illinois 01/19/2019 reflecting_week_ended" align=right>01/12/2019</td>
+<td headers="Illinois 01/19/2019 continued_claims" align=right>129,588</td>
+<td headers="Illinois 01/19/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 01/19/2019 insured_unemployment" align=right>2.20</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="01/26/2019" align=right>01/26/2019</th>
+<td headers="Illinois 01/26/2019 initial_claims" align=right>10,695</td>
+<td headers="Illinois 01/26/2019 reflecting_week_ended" align=right>01/19/2019</td>
+<td headers="Illinois 01/26/2019 continued_claims" align=right>131,817</td>
+<td headers="Illinois 01/26/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 01/26/2019 insured_unemployment" align=right>2.24</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="02/02/2019" align=right>02/02/2019</th>
+<td headers="Illinois 02/02/2019 initial_claims" align=right>10,755</td>
+<td headers="Illinois 02/02/2019 reflecting_week_ended" align=right>01/26/2019</td>
+<td headers="Illinois 02/02/2019 continued_claims" align=right>131,871</td>
+<td headers="Illinois 02/02/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 02/02/2019 insured_unemployment" align=right>2.24</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="02/09/2019" align=right>02/09/2019</th>
+<td headers="Illinois 02/09/2019 initial_claims" align=right>9,340</td>
+<td headers="Illinois 02/09/2019 reflecting_week_ended" align=right>02/02/2019</td>
+<td headers="Illinois 02/09/2019 continued_claims" align=right>135,768</td>
+<td headers="Illinois 02/09/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 02/09/2019 insured_unemployment" align=right>2.31</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="02/16/2019" align=right>02/16/2019</th>
+<td headers="Illinois 02/16/2019 initial_claims" align=right>7,520</td>
+<td headers="Illinois 02/16/2019 reflecting_week_ended" align=right>02/09/2019</td>
+<td headers="Illinois 02/16/2019 continued_claims" align=right>135,273</td>
+<td headers="Illinois 02/16/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 02/16/2019 insured_unemployment" align=right>2.30</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="02/23/2019" align=right>02/23/2019</th>
+<td headers="Illinois 02/23/2019 initial_claims" align=right>7,446</td>
+<td headers="Illinois 02/23/2019 reflecting_week_ended" align=right>02/16/2019</td>
+<td headers="Illinois 02/23/2019 continued_claims" align=right>134,364</td>
+<td headers="Illinois 02/23/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 02/23/2019 insured_unemployment" align=right>2.29</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="03/02/2019" align=right>03/02/2019</th>
+<td headers="Illinois 03/02/2019 initial_claims" align=right>8,005</td>
+<td headers="Illinois 03/02/2019 reflecting_week_ended" align=right>02/23/2019</td>
+<td headers="Illinois 03/02/2019 continued_claims" align=right>129,924</td>
+<td headers="Illinois 03/02/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 03/02/2019 insured_unemployment" align=right>2.21</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="03/09/2019" align=right>03/09/2019</th>
+<td headers="Illinois 03/09/2019 initial_claims" align=right>11,573</td>
+<td headers="Illinois 03/09/2019 reflecting_week_ended" align=right>03/02/2019</td>
+<td headers="Illinois 03/09/2019 continued_claims" align=right>129,116</td>
+<td headers="Illinois 03/09/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 03/09/2019 insured_unemployment" align=right>2.20</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="03/16/2019" align=right>03/16/2019</th>
+<td headers="Illinois 03/16/2019 initial_claims" align=right>7,987</td>
+<td headers="Illinois 03/16/2019 reflecting_week_ended" align=right>03/09/2019</td>
+<td headers="Illinois 03/16/2019 continued_claims" align=right>125,462</td>
+<td headers="Illinois 03/16/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 03/16/2019 insured_unemployment" align=right>2.13</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="03/23/2019" align=right>03/23/2019</th>
+<td headers="Illinois 03/23/2019 initial_claims" align=right>7,933</td>
+<td headers="Illinois 03/23/2019 reflecting_week_ended" align=right>03/16/2019</td>
+<td headers="Illinois 03/23/2019 continued_claims" align=right>131,314</td>
+<td headers="Illinois 03/23/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 03/23/2019 insured_unemployment" align=right>2.23</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="03/30/2019" align=right>03/30/2019</th>
+<td headers="Illinois 03/30/2019 initial_claims" align=right>9,230</td>
+<td headers="Illinois 03/30/2019 reflecting_week_ended" align=right>03/23/2019</td>
+<td headers="Illinois 03/30/2019 continued_claims" align=right>119,434</td>
+<td headers="Illinois 03/30/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 03/30/2019 insured_unemployment" align=right>2.03</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="04/06/2019" align=right>04/06/2019</th>
+<td headers="Illinois 04/06/2019 initial_claims" align=right>8,876</td>
+<td headers="Illinois 04/06/2019 reflecting_week_ended" align=right>03/30/2019</td>
+<td headers="Illinois 04/06/2019 continued_claims" align=right>119,157</td>
+<td headers="Illinois 04/06/2019 covered_employment" align=right>5,879,922</td>
+<td headers="Illinois 04/06/2019 insured_unemployment" align=right>2.03</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="04/13/2019" align=right>04/13/2019</th>
+<td headers="Illinois 04/13/2019 initial_claims" align=right>7,728</td>
+<td headers="Illinois 04/13/2019 reflecting_week_ended" align=right>04/06/2019</td>
+<td headers="Illinois 04/13/2019 continued_claims" align=right>110,245</td>
+<td headers="Illinois 04/13/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 04/13/2019 insured_unemployment" align=right>1.87</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="04/20/2019" align=right>04/20/2019</th>
+<td headers="Illinois 04/20/2019 initial_claims" align=right>8,141</td>
+<td headers="Illinois 04/20/2019 reflecting_week_ended" align=right>04/13/2019</td>
+<td headers="Illinois 04/20/2019 continued_claims" align=right>105,530</td>
+<td headers="Illinois 04/20/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 04/20/2019 insured_unemployment" align=right>1.79</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="04/27/2019" align=right>04/27/2019</th>
+<td headers="Illinois 04/27/2019 initial_claims" align=right>7,310</td>
+<td headers="Illinois 04/27/2019 reflecting_week_ended" align=right>04/20/2019</td>
+<td headers="Illinois 04/27/2019 continued_claims" align=right>93,622</td>
+<td headers="Illinois 04/27/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 04/27/2019 insured_unemployment" align=right>1.59</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="05/04/2019" align=right>05/04/2019</th>
+<td headers="Illinois 05/04/2019 initial_claims" align=right>9,320</td>
+<td headers="Illinois 05/04/2019 reflecting_week_ended" align=right>04/27/2019</td>
+<td headers="Illinois 05/04/2019 continued_claims" align=right>95,884</td>
+<td headers="Illinois 05/04/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 05/04/2019 insured_unemployment" align=right>1.63</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="05/11/2019" align=right>05/11/2019</th>
+<td headers="Illinois 05/11/2019 initial_claims" align=right>8,836</td>
+<td headers="Illinois 05/11/2019 reflecting_week_ended" align=right>05/04/2019</td>
+<td headers="Illinois 05/11/2019 continued_claims" align=right>86,531</td>
+<td headers="Illinois 05/11/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 05/11/2019 insured_unemployment" align=right>1.47</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="05/18/2019" align=right>05/18/2019</th>
+<td headers="Illinois 05/18/2019 initial_claims" align=right>7,382</td>
+<td headers="Illinois 05/18/2019 reflecting_week_ended" align=right>05/11/2019</td>
+<td headers="Illinois 05/18/2019 continued_claims" align=right>91,243</td>
+<td headers="Illinois 05/18/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 05/18/2019 insured_unemployment" align=right>1.55</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="05/25/2019" align=right>05/25/2019</th>
+<td headers="Illinois 05/25/2019 initial_claims" align=right>7,666</td>
+<td headers="Illinois 05/25/2019 reflecting_week_ended" align=right>05/18/2019</td>
+<td headers="Illinois 05/25/2019 continued_claims" align=right>84,526</td>
+<td headers="Illinois 05/25/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 05/25/2019 insured_unemployment" align=right>1.43</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="06/01/2019" align=right>06/01/2019</th>
+<td headers="Illinois 06/01/2019 initial_claims" align=right>8,551</td>
+<td headers="Illinois 06/01/2019 reflecting_week_ended" align=right>05/25/2019</td>
+<td headers="Illinois 06/01/2019 continued_claims" align=right>83,430</td>
+<td headers="Illinois 06/01/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 06/01/2019 insured_unemployment" align=right>1.42</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="06/08/2019" align=right>06/08/2019</th>
+<td headers="Illinois 06/08/2019 initial_claims" align=right>10,583</td>
+<td headers="Illinois 06/08/2019 reflecting_week_ended" align=right>06/01/2019</td>
+<td headers="Illinois 06/08/2019 continued_claims" align=right>82,329</td>
+<td headers="Illinois 06/08/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 06/08/2019 insured_unemployment" align=right>1.40</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="06/15/2019" align=right>06/15/2019</th>
+<td headers="Illinois 06/15/2019 initial_claims" align=right>8,838</td>
+<td headers="Illinois 06/15/2019 reflecting_week_ended" align=right>06/08/2019</td>
+<td headers="Illinois 06/15/2019 continued_claims" align=right>84,805</td>
+<td headers="Illinois 06/15/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 06/15/2019 insured_unemployment" align=right>1.44</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="06/22/2019" align=right>06/22/2019</th>
+<td headers="Illinois 06/22/2019 initial_claims" align=right>8,100</td>
+<td headers="Illinois 06/22/2019 reflecting_week_ended" align=right>06/15/2019</td>
+<td headers="Illinois 06/22/2019 continued_claims" align=right>87,646</td>
+<td headers="Illinois 06/22/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 06/22/2019 insured_unemployment" align=right>1.49</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="06/29/2019" align=right>06/29/2019</th>
+<td headers="Illinois 06/29/2019 initial_claims" align=right>8,038</td>
+<td headers="Illinois 06/29/2019 reflecting_week_ended" align=right>06/22/2019</td>
+<td headers="Illinois 06/29/2019 continued_claims" align=right>86,622</td>
+<td headers="Illinois 06/29/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 06/29/2019 insured_unemployment" align=right>1.47</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="07/06/2019" align=right>07/06/2019</th>
+<td headers="Illinois 07/06/2019 initial_claims" align=right>9,137</td>
+<td headers="Illinois 07/06/2019 reflecting_week_ended" align=right>06/29/2019</td>
+<td headers="Illinois 07/06/2019 continued_claims" align=right>86,321</td>
+<td headers="Illinois 07/06/2019 covered_employment" align=right>5,892,968</td>
+<td headers="Illinois 07/06/2019 insured_unemployment" align=right>1.46</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="07/13/2019" align=right>07/13/2019</th>
+<td headers="Illinois 07/13/2019 initial_claims" align=right>7,249</td>
+<td headers="Illinois 07/13/2019 reflecting_week_ended" align=right>07/06/2019</td>
+<td headers="Illinois 07/13/2019 continued_claims" align=right>85,669</td>
+<td headers="Illinois 07/13/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 07/13/2019 insured_unemployment" align=right>1.45</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="07/20/2019" align=right>07/20/2019</th>
+<td headers="Illinois 07/20/2019 initial_claims" align=right>7,986</td>
+<td headers="Illinois 07/20/2019 reflecting_week_ended" align=right>07/13/2019</td>
+<td headers="Illinois 07/20/2019 continued_claims" align=right>93,884</td>
+<td headers="Illinois 07/20/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 07/20/2019 insured_unemployment" align=right>1.59</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="07/27/2019" align=right>07/27/2019</th>
+<td headers="Illinois 07/27/2019 initial_claims" align=right>10,355</td>
+<td headers="Illinois 07/27/2019 reflecting_week_ended" align=right>07/20/2019</td>
+<td headers="Illinois 07/27/2019 continued_claims" align=right>88,602</td>
+<td headers="Illinois 07/27/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 07/27/2019 insured_unemployment" align=right>1.50</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="08/03/2019" align=right>08/03/2019</th>
+<td headers="Illinois 08/03/2019 initial_claims" align=right>7,546</td>
+<td headers="Illinois 08/03/2019 reflecting_week_ended" align=right>07/27/2019</td>
+<td headers="Illinois 08/03/2019 continued_claims" align=right>90,901</td>
+<td headers="Illinois 08/03/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 08/03/2019 insured_unemployment" align=right>1.54</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="08/10/2019" align=right>08/10/2019</th>
+<td headers="Illinois 08/10/2019 initial_claims" align=right>7,209</td>
+<td headers="Illinois 08/10/2019 reflecting_week_ended" align=right>08/03/2019</td>
+<td headers="Illinois 08/10/2019 continued_claims" align=right>94,060</td>
+<td headers="Illinois 08/10/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 08/10/2019 insured_unemployment" align=right>1.60</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="08/17/2019" align=right>08/17/2019</th>
+<td headers="Illinois 08/17/2019 initial_claims" align=right>6,991</td>
+<td headers="Illinois 08/17/2019 reflecting_week_ended" align=right>08/10/2019</td>
+<td headers="Illinois 08/17/2019 continued_claims" align=right>88,531</td>
+<td headers="Illinois 08/17/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 08/17/2019 insured_unemployment" align=right>1.50</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="08/24/2019" align=right>08/24/2019</th>
+<td headers="Illinois 08/24/2019 initial_claims" align=right>7,376</td>
+<td headers="Illinois 08/24/2019 reflecting_week_ended" align=right>08/17/2019</td>
+<td headers="Illinois 08/24/2019 continued_claims" align=right>85,032</td>
+<td headers="Illinois 08/24/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 08/24/2019 insured_unemployment" align=right>1.44</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="08/31/2019" align=right>08/31/2019</th>
+<td headers="Illinois 08/31/2019 initial_claims" align=right>11,104</td>
+<td headers="Illinois 08/31/2019 reflecting_week_ended" align=right>08/24/2019</td>
+<td headers="Illinois 08/31/2019 continued_claims" align=right>83,897</td>
+<td headers="Illinois 08/31/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 08/31/2019 insured_unemployment" align=right>1.42</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="09/07/2019" align=right>09/07/2019</th>
+<td headers="Illinois 09/07/2019 initial_claims" align=right>7,180</td>
+<td headers="Illinois 09/07/2019 reflecting_week_ended" align=right>08/31/2019</td>
+<td headers="Illinois 09/07/2019 continued_claims" align=right>77,872</td>
+<td headers="Illinois 09/07/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 09/07/2019 insured_unemployment" align=right>1.32</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="09/14/2019" align=right>09/14/2019</th>
+<td headers="Illinois 09/14/2019 initial_claims" align=right>6,614</td>
+<td headers="Illinois 09/14/2019 reflecting_week_ended" align=right>09/07/2019</td>
+<td headers="Illinois 09/14/2019 continued_claims" align=right>86,352</td>
+<td headers="Illinois 09/14/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 09/14/2019 insured_unemployment" align=right>1.46</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="09/21/2019" align=right>09/21/2019</th>
+<td headers="Illinois 09/21/2019 initial_claims" align=right>6,538</td>
+<td headers="Illinois 09/21/2019 reflecting_week_ended" align=right>09/14/2019</td>
+<td headers="Illinois 09/21/2019 continued_claims" align=right>76,349</td>
+<td headers="Illinois 09/21/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 09/21/2019 insured_unemployment" align=right>1.30</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="09/28/2019" align=right>09/28/2019</th>
+<td headers="Illinois 09/28/2019 initial_claims" align=right>6,793</td>
+<td headers="Illinois 09/28/2019 reflecting_week_ended" align=right>09/21/2019</td>
+<td headers="Illinois 09/28/2019 continued_claims" align=right>74,877</td>
+<td headers="Illinois 09/28/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 09/28/2019 insured_unemployment" align=right>1.27</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="10/05/2019" align=right>10/05/2019</th>
+<td headers="Illinois 10/05/2019 initial_claims" align=right>8,465</td>
+<td headers="Illinois 10/05/2019 reflecting_week_ended" align=right>09/28/2019</td>
+<td headers="Illinois 10/05/2019 continued_claims" align=right>72,490</td>
+<td headers="Illinois 10/05/2019 covered_employment" align=right>5,895,016</td>
+<td headers="Illinois 10/05/2019 insured_unemployment" align=right>1.23</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="10/12/2019" align=right>10/12/2019</th>
+<td headers="Illinois 10/12/2019 initial_claims" align=right>7,543</td>
+<td headers="Illinois 10/12/2019 reflecting_week_ended" align=right>10/05/2019</td>
+<td headers="Illinois 10/12/2019 continued_claims" align=right>73,458</td>
+<td headers="Illinois 10/12/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 10/12/2019 insured_unemployment" align=right>1.24</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="10/19/2019" align=right>10/19/2019</th>
+<td headers="Illinois 10/19/2019 initial_claims" align=right>7,551</td>
+<td headers="Illinois 10/19/2019 reflecting_week_ended" align=right>10/12/2019</td>
+<td headers="Illinois 10/19/2019 continued_claims" align=right>75,028</td>
+<td headers="Illinois 10/19/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 10/19/2019 insured_unemployment" align=right>1.27</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="10/26/2019" align=right>10/26/2019</th>
+<td headers="Illinois 10/26/2019 initial_claims" align=right>8,307</td>
+<td headers="Illinois 10/26/2019 reflecting_week_ended" align=right>10/19/2019</td>
+<td headers="Illinois 10/26/2019 continued_claims" align=right>75,332</td>
+<td headers="Illinois 10/26/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 10/26/2019 insured_unemployment" align=right>1.28</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="11/02/2019" align=right>11/02/2019</th>
+<td headers="Illinois 11/02/2019 initial_claims" align=right>10,705</td>
+<td headers="Illinois 11/02/2019 reflecting_week_ended" align=right>10/26/2019</td>
+<td headers="Illinois 11/02/2019 continued_claims" align=right>75,398</td>
+<td headers="Illinois 11/02/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 11/02/2019 insured_unemployment" align=right>1.28</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="11/09/2019" align=right>11/09/2019</th>
+<td headers="Illinois 11/09/2019 initial_claims" align=right>11,015</td>
+<td headers="Illinois 11/09/2019 reflecting_week_ended" align=right>11/02/2019</td>
+<td headers="Illinois 11/09/2019 continued_claims" align=right>78,200</td>
+<td headers="Illinois 11/09/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 11/09/2019 insured_unemployment" align=right>1.32</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="11/16/2019" align=right>11/16/2019</th>
+<td headers="Illinois 11/16/2019 initial_claims" align=right>13,989</td>
+<td headers="Illinois 11/16/2019 reflecting_week_ended" align=right>11/09/2019</td>
+<td headers="Illinois 11/16/2019 continued_claims" align=right>80,616</td>
+<td headers="Illinois 11/16/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 11/16/2019 insured_unemployment" align=right>1.37</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="11/23/2019" align=right>11/23/2019</th>
+<td headers="Illinois 11/23/2019 initial_claims" align=right>11,266</td>
+<td headers="Illinois 11/23/2019 reflecting_week_ended" align=right>11/16/2019</td>
+<td headers="Illinois 11/23/2019 continued_claims" align=right>85,441</td>
+<td headers="Illinois 11/23/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 11/23/2019 insured_unemployment" align=right>1.45</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="11/30/2019" align=right>11/30/2019</th>
+<td headers="Illinois 11/30/2019 initial_claims" align=right>10,233</td>
+<td headers="Illinois 11/30/2019 reflecting_week_ended" align=right>11/23/2019</td>
+<td headers="Illinois 11/30/2019 continued_claims" align=right>90,255</td>
+<td headers="Illinois 11/30/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 11/30/2019 insured_unemployment" align=right>1.53</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="12/07/2019" align=right>12/07/2019</th>
+<td headers="Illinois 12/07/2019 initial_claims" align=right>14,798</td>
+<td headers="Illinois 12/07/2019 reflecting_week_ended" align=right>11/30/2019</td>
+<td headers="Illinois 12/07/2019 continued_claims" align=right>95,414</td>
+<td headers="Illinois 12/07/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 12/07/2019 insured_unemployment" align=right>1.62</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="12/14/2019" align=right>12/14/2019</th>
+<td headers="Illinois 12/14/2019 initial_claims" align=right>15,076</td>
+<td headers="Illinois 12/14/2019 reflecting_week_ended" align=right>12/07/2019</td>
+<td headers="Illinois 12/14/2019 continued_claims" align=right>99,001</td>
+<td headers="Illinois 12/14/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 12/14/2019 insured_unemployment" align=right>1.68</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="12/21/2019" align=right>12/21/2019</th>
+<td headers="Illinois 12/21/2019 initial_claims" align=right>16,669</td>
+<td headers="Illinois 12/21/2019 reflecting_week_ended" align=right>12/14/2019</td>
+<td headers="Illinois 12/21/2019 continued_claims" align=right>107,512</td>
+<td headers="Illinois 12/21/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 12/21/2019 insured_unemployment" align=right>1.82</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="12/28/2019" align=right>12/28/2019</th>
+<td headers="Illinois 12/28/2019 initial_claims" align=right>16,537</td>
+<td headers="Illinois 12/28/2019 reflecting_week_ended" align=right>12/21/2019</td>
+<td headers="Illinois 12/28/2019 continued_claims" align=right>109,102</td>
+<td headers="Illinois 12/28/2019 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 12/28/2019 insured_unemployment" align=right>1.85</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="01/04/2020" align=right>01/04/2020</th>
+<td headers="Illinois 01/04/2020 initial_claims" align=right>11,779</td>
+<td headers="Illinois 01/04/2020 reflecting_week_ended" align=right>12/28/2019</td>
+<td headers="Illinois 01/04/2020 continued_claims" align=right>125,348</td>
+<td headers="Illinois 01/04/2020 covered_employment" align=right>5,902,475</td>
+<td headers="Illinois 01/04/2020 insured_unemployment" align=right>2.12</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="01/11/2020" align=right>01/11/2020</th>
+<td headers="Illinois 01/11/2020 initial_claims" align=right>12,703</td>
+<td headers="Illinois 01/11/2020 reflecting_week_ended" align=right>01/04/2020</td>
+<td headers="Illinois 01/11/2020 continued_claims" align=right>136,523</td>
+<td headers="Illinois 01/11/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 01/11/2020 insured_unemployment" align=right>2.31</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="01/18/2020" align=right>01/18/2020</th>
+<td headers="Illinois 01/18/2020 initial_claims" align=right>14,807</td>
+<td headers="Illinois 01/18/2020 reflecting_week_ended" align=right>01/11/2020</td>
+<td headers="Illinois 01/18/2020 continued_claims" align=right>133,967</td>
+<td headers="Illinois 01/18/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 01/18/2020 insured_unemployment" align=right>2.27</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="01/25/2020" align=right>01/25/2020</th>
+<td headers="Illinois 01/25/2020 initial_claims" align=right>9,762</td>
+<td headers="Illinois 01/25/2020 reflecting_week_ended" align=right>01/18/2020</td>
+<td headers="Illinois 01/25/2020 continued_claims" align=right>131,469</td>
+<td headers="Illinois 01/25/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 01/25/2020 insured_unemployment" align=right>2.22</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="02/01/2020" align=right>02/01/2020</th>
+<td headers="Illinois 02/01/2020 initial_claims" align=right>9,343</td>
+<td headers="Illinois 02/01/2020 reflecting_week_ended" align=right>01/25/2020</td>
+<td headers="Illinois 02/01/2020 continued_claims" align=right>143,239</td>
+<td headers="Illinois 02/01/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 02/01/2020 insured_unemployment" align=right>2.42</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="02/08/2020" align=right>02/08/2020</th>
+<td headers="Illinois 02/08/2020 initial_claims" align=right>9,794</td>
+<td headers="Illinois 02/08/2020 reflecting_week_ended" align=right>02/01/2020</td>
+<td headers="Illinois 02/08/2020 continued_claims" align=right>130,900</td>
+<td headers="Illinois 02/08/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 02/08/2020 insured_unemployment" align=right>2.21</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="02/15/2020" align=right>02/15/2020</th>
+<td headers="Illinois 02/15/2020 initial_claims" align=right>8,045</td>
+<td headers="Illinois 02/15/2020 reflecting_week_ended" align=right>02/08/2020</td>
+<td headers="Illinois 02/15/2020 continued_claims" align=right>133,765</td>
+<td headers="Illinois 02/15/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 02/15/2020 insured_unemployment" align=right>2.26</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="02/22/2020" align=right>02/22/2020</th>
+<td headers="Illinois 02/22/2020 initial_claims" align=right>11,812</td>
+<td headers="Illinois 02/22/2020 reflecting_week_ended" align=right>02/15/2020</td>
+<td headers="Illinois 02/22/2020 continued_claims" align=right>131,171</td>
+<td headers="Illinois 02/22/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 02/22/2020 insured_unemployment" align=right>2.22</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="02/29/2020" align=right>02/29/2020</th>
+<td headers="Illinois 02/29/2020 initial_claims" align=right>8,980</td>
+<td headers="Illinois 02/29/2020 reflecting_week_ended" align=right>02/22/2020</td>
+<td headers="Illinois 02/29/2020 continued_claims" align=right>132,123</td>
+<td headers="Illinois 02/29/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 02/29/2020 insured_unemployment" align=right>2.24</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="03/07/2020" align=right>03/07/2020</th>
+<td headers="Illinois 03/07/2020 initial_claims" align=right>8,727</td>
+<td headers="Illinois 03/07/2020 reflecting_week_ended" align=right>02/29/2020</td>
+<td headers="Illinois 03/07/2020 continued_claims" align=right>136,396</td>
+<td headers="Illinois 03/07/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 03/07/2020 insured_unemployment" align=right>2.31</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="03/14/2020" align=right>03/14/2020</th>
+<td headers="Illinois 03/14/2020 initial_claims" align=right>11,305</td>
+<td headers="Illinois 03/14/2020 reflecting_week_ended" align=right>03/07/2020</td>
+<td headers="Illinois 03/14/2020 continued_claims" align=right>130,293</td>
+<td headers="Illinois 03/14/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 03/14/2020 insured_unemployment" align=right>2.20</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="03/21/2020" align=right>03/21/2020</th>
+<td headers="Illinois 03/21/2020 initial_claims" align=right>126,716</td>
+<td headers="Illinois 03/21/2020 reflecting_week_ended" align=right>03/14/2020</td>
+<td headers="Illinois 03/21/2020 continued_claims" align=right>125,422</td>
+<td headers="Illinois 03/21/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 03/21/2020 insured_unemployment" align=right>2.12</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="03/28/2020" align=right>03/28/2020</th>
+<td headers="Illinois 03/28/2020 initial_claims" align=right>185,575</td>
+<td headers="Illinois 03/28/2020 reflecting_week_ended" align=right>03/21/2020</td>
+<td headers="Illinois 03/28/2020 continued_claims" align=right>132,058</td>
+<td headers="Illinois 03/28/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 03/28/2020 insured_unemployment" align=right>2.23</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="04/04/2020" align=right>04/04/2020</th>
+<td headers="Illinois 04/04/2020 initial_claims" align=right>202,157</td>
+<td headers="Illinois 04/04/2020 reflecting_week_ended" align=right>03/28/2020</td>
+<td headers="Illinois 04/04/2020 continued_claims" align=right>263,018</td>
+<td headers="Illinois 04/04/2020 covered_employment" align=right>5,910,898</td>
+<td headers="Illinois 04/04/2020 insured_unemployment" align=right>4.45</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="04/11/2020" align=right>04/11/2020</th>
+<td headers="Illinois 04/11/2020 initial_claims" align=right>140,787</td>
+<td headers="Illinois 04/11/2020 reflecting_week_ended" align=right>04/04/2020</td>
+<td headers="Illinois 04/11/2020 continued_claims" align=right>452,826</td>
+<td headers="Illinois 04/11/2020 covered_employment" align=right>5,914,575</td>
+<td headers="Illinois 04/11/2020 insured_unemployment" align=right>7.66</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="04/18/2020" align=right>04/18/2020</th>
+<td headers="Illinois 04/18/2020 initial_claims" align=right>118,996</td>
+<td headers="Illinois 04/18/2020 reflecting_week_ended" align=right>04/11/2020</td>
+<td headers="Illinois 04/18/2020 continued_claims" align=right>569,200</td>
+<td headers="Illinois 04/18/2020 covered_employment" align=right>5,914,575</td>
+<td headers="Illinois 04/18/2020 insured_unemployment" align=right>9.62</td>
+</tr>
+<tr>
+<th id="Illinois"  align=left>Illinois</th>
+<th id="04/25/2020" align=right>04/25/2020</th>
+<td headers="Illinois 04/25/2020 initial_claims" align=right>101,322</td>
+<td headers="Illinois 04/25/2020 reflecting_week_ended" align=right>04/18/2020</td>
+<td headers="Illinois 04/25/2020 continued_claims" align=right>681,002</td>
+<td headers="Illinois 04/25/2020 covered_employment" align=right>5,914,575</td>
+<td headers="Illinois 04/25/2020 insured_unemployment" align=right>11.51</td>
+</tr>
+	</table>
+	<p>Run Date: 5/10/2020</p>
