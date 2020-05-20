@@ -1,0 +1,11 @@
+Quarantine Policy:
+- Types of Stay At Home Orders for different counties, states
+- Quantifiers on how centralized a government is / how fast the government responded vs. mobility afterwards
+- Dataset: How close is the government with its people https://l.messenger.com/l.php?u=https%3A%2F%2Fdataverse.harvard.edu%2Fdataset.xhtml%3FpersistentId%3Ddoi%253A10.7910%252FDVN%252F24566&h=AT3YY_aIy4ts8IpFYKyM-6GpUJZU08T9ZtYWkNvEgxX6Qd9KqXCL8zI76o5GyEK0b1STtQlJHusHApvPa4yYqkbZcdB--AnIX6vMYWssVE4XR8oHCKZv-vZrtBjZLCXIdKQ0WA
+- Data on mobility (Google, Wuhan)
+- Control for: Rate of increase in case numbers can affect mobility (e.g. people in NY will respond more seriously)
+- Measure for how people get their news.
+- Education
+- Crime
+
+Find one particular variable of interest as a causal variable, T.
