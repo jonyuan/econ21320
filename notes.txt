@@ -9,3 +9,10 @@ Quarantine Policy:
 - Crime
 
 Find one particular variable of interest as a causal variable, T.
+
+Data Collected:
+- Google's Global Mobility Report by county (Global_Mobility_Report.csv)
+- China's mobility index by city (China_(City Movement Intensity) 0101-0502.csv)
+- US daily confirmed cases by county (US_covid_by_county.csv)
+- China daily confirmed cases by city (China_covid_by_city.csv)
+- Decentralization Index by Country (Kopie+von+Ivanyna+Shah+Decentralization+Dataset+Jan+2014.xls)
