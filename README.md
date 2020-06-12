@@ -5,6 +5,7 @@ Are People Staying at Home? Capturing the Effects of Lockdown
 Policies on Mobility in the US and China
 
 Hari Pingali, Jeffrey Wang, Jonathan Yuan
+
 June 2020
 
 Abstract
