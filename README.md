@@ -9,6 +9,7 @@ Hari Pingali, Jeffrey Wang, Jonathan Yuan
 June 2020
 
 Abstract
+
 We study mobility data gathered by Google and Baidu to measure the direct effect
 that the lockdown policies had on social distancing in the United States and China. In
 the United States, we specifically examine the different responses to stay-at-home orders
